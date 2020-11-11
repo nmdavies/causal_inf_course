@@ -19,6 +19,8 @@ The second simualtion on selection bias is  <a href="https://github.com/nmdavies
 
 The second lecture describes how to define an instrumental variable and how to run an instrumental variable analysis. 
 
+The video of the first lecture is <a href="https://ntnu.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=b19c2912-54a6-4867-ac0d-ac7000915914">here</a>. 
+
 The presentation for the second lecture is <a href="https://github.com/nmdavies/causal_inf_course/raw/main/lecture_2_principals_of_iv_analysis.pptx">here</a>.
 
 I've posted <a href="https://github.com/nmdavies/causal_inf_course/raw/main/iv_practical_2020_nmd_201106.docx">a short tutorial</a>  with <a href="https://github.com/nmdavies/causal_inf_course/blob/raw/iv_practical_2020.dta">datasets</a> and an example <a href="https://github.com/nmdavies/causal_inf_course/blob/main/reg_1_code_iv_practical.do">script</a> here. I've provided Stata code, but I would be very happy to provide R code as well if people would like. 
