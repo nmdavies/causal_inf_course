@@ -29,7 +29,7 @@ I've posted <a href="https://github.com/nmdavies/causal_inf_course/raw/main/iv_p
 
 The third lecture describes how to use instrumental variable estimators including non-linear models, and causal risk and odds-ratios, two-sample and fixed effects models.
 
-The presentation for the second lecture is <a href="https://github.com/nmdavies/causal_inf_course/raw/main/lecture_3_estimation_using_ivs.pptx">here</a>.
+The presentation for the third lecture is <a href="https://github.com/nmdavies/causal_inf_course/raw/main/lecture_3_estimation_using_ivs.pptx">here</a>.
 
 I've posted <a href="https://github.com/nmdavies/causal_inf_course/raw/main/cr_1_estimators.do">a script</a> which uses simulations to illustrate each of hte methods I talk about in the lecture. I've provided Stata code, but I would be very happy to provide R code as well if people would like. 
 
