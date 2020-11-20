@@ -33,6 +33,6 @@ The presentation for the third lecture is <a href="https://github.com/nmdavies/c
 
 I've posted <a href="https://github.com/nmdavies/causal_inf_course/raw/main/cr_1_estimators.do">a script</a> which uses simulations to illustrate each of hte methods I talk about in the lecture. I've provided Stata code, but I would be very happy to provide R code as well if people would like. 
 
-The video of the third lecture will be posted <a href="https://ntnu.cloud.panopto.eu/Panopto/Pages/TBA">here</a>. 
+The video of the third lecture will be posted <a href="https://ntnu.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=d2d41ceb-dc06-47b3-b7f0-ac7900df5035">here</a>. 
 
 Please send comments and suggestions to <p><a href="mailto:neil.davies@bristol.ac.uk">neil.davies@bristol.ac.uk</a></p>.
