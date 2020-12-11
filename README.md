@@ -35,4 +35,15 @@ I've posted <a href="https://github.com/nmdavies/causal_inf_course/raw/main/cr_1
 
 The video of the third lecture is <a href="https://ntnu.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=d2d41ceb-dc06-47b3-b7f0-ac7900df5035">here</a>. 
 
+<b>Lecture 4: Interpretation and reporting of instrumental variable analyses</b>
+
+The fourth lecture describes how to interpret IV studies. This is perhaps the most challenging aspect of instrumental variable analysis. Here I discuss the fourth IV assumptions and the implications of these assumptions for the generalizability of IV results. I also provide some guidance about the information that can be reported by IV anlayses to help your reader understand the strengths and limitations of the analysis. 
+
+The presentation for the fouth lecture is <a href="https://github.com/nmdavies/causal_inf_course/raw/main/lecture_4_interpretation_using_ivs.pptx">here</a>.
+
+I've posted <a href="https://github.com/nmdavies/causal_inf_course/raw/main/cr_1_sims_point_identification.do">a script</a> which uses simulations to illustrate some of the methods I talk about in the lecture. I've provided Stata code, but I would be very happy to provide R code as well if people would like. 
+
+The video of the four lecture is <a href="https://ntnu.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=XXXXX">here</a>. 
+
+
 Please send comments and suggestions to <p><a href="mailto:neil.davies@bristol.ac.uk">neil.davies@bristol.ac.uk</a></p>.
