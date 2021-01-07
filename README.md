@@ -43,7 +43,7 @@ The presentation for the fouth lecture is <a href="https://github.com/nmdavies/c
 
 I've posted <a href="https://github.com/nmdavies/causal_inf_course/raw/main/cr_1_sims_point_identification.do">a script</a> which uses simulations to illustrate some of the methods I talk about in the lecture. I've provided Stata code, but I would be very happy to provide R code as well if people would like. 
 
-The video of the four lecture is <a href="https://ntnu.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=XXXXX">here</a>. 
+The video of the fourth lecture is <a href="https://ntnu.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=dd1fda15-390b-49b0-b57d-ac8e00c6ed39">here</a>. 
 
 
 Please send comments and suggestions to <p><a href="mailto:neil.davies@bristol.ac.uk">neil.davies@bristol.ac.uk</a></p>.
